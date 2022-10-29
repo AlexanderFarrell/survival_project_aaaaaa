@@ -1,2 +1,2 @@
-g++ main.cpp;
+g++ main.cpp student.cpp student.h;
 ./a.out;
